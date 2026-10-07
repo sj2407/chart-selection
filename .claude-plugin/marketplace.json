@@ -1,0 +1,14 @@
+{
+  "name": "soumaya-chart-selection",
+  "owner": {
+    "name": "Soumaya Jameleddine"
+  },
+  "plugins": [
+    {
+      "name": "chart-selection",
+      "source": "./",
+      "description": "Picks the right chart by starting from the question, not the data"
+    }
+  ],
+  "description": "The Chart Selection skill for Claude Code"
+}

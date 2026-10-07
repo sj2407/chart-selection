@@ -1,0 +1,7 @@
+{
+  "name": "chart-selection",
+  "version": "1.0.0",
+  "description": "Picks the right chart by starting from the question, not the data: 135 chart types in 12 families, each with when to use it, when not to, and how to style it",
+  "author": { "name": "Soumaya Jameleddine" },
+  "license": "MIT"
+}
